@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Exo+2&display=swap&subset=latin-ext');
+
+body {
+  background-color: #442222;
+  color: #222222;
+  font-family: 'Exo 2', sans-serif;
+  font-size: 16pt;
+}
+.wrapper {
+  background-color: #eeeeee;
+  margin: 30pt auto 30pt auto;
+  padding: 25pt;
+  min-width: 400px;
+  max-width: 1000px;
+  border: 5pt outset #ffffff;
+}
+img#karikatura {
+  float: right;
+  margin-left: 10pt;
+  margin-bottom: 10pt;
+}
+.header {
+  text-align: center;
+}
+h1 {
+  font-size: 32pt;
+}
+h2 {
+  clear: left;
+  font-size: 18pt;
+  padding-top: 15pt;
+}
+ul.links {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+ul.links a {
+  float: left;
+  margin-bottom: 10pt;
+  margin-right: 10pt;
+  padding: 5pt;
+  border: 2pt solid #000000;
+  border-radius: 10pt;
+  background-color: #ffffff;
+  text-align: center;
+  text-decoration: none;
+  color: inherit;
+  width: 170pt;
+}
+ul.links a:hover {
+  background-color: #ffffbb;
+}
+table {
+  margin: auto;
+  border-collapse: collapse;
+}
+tr:nth-child(even) {
+  background-color: #bbbbbb;
+}
+tr:nth-child(odd) {
+  background-color: #cccccc;
+}
+a.anchor {
+  text-decoration: none;
+  color: inherit;
+}
+span.anchor {
+  color: #888888;
+  display: none;
+}
+a.anchor:hover span.anchor {
+  display: inherit;
+}
+.footer {
+  clear: both;
+}

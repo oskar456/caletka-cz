@@ -1,0 +1,1274 @@
+#- date:
+#  event:
+#  title:
+#  links:
+#     -
+#     -
+#
+
+- date: 2019-11-13
+  event: GÉANT
+  eventlink: https://wiki.geant.org/display/SIGNOC/10th+SIG-NOC+meeting
+  title: Mitigating unwanted traffic with ExaFS
+  lang: en
+  links:
+     - type: slides
+       url: /dl/slidy/20191113-SIGNOC-ExaFS.pdf
+
+- date: 2019-11-05
+  event: CESNET LUG
+  title: Yubikey
+  links:
+     - type: prezentace
+       url: /dl/slidy/20191105-CESNETLUG-Yubikey.pdf
+
+- date: 2019-11-03
+  event: OpenAlt
+  eventlink: https://www.openalt.cz/2019/
+  title: Pokročilejší síťování v Linuxu
+  links:
+     - type: prezentace
+       url: /dl/slidy/20191103-OpenAlt-Pokrocilejsi_sitovani_v_Linuxu.pdf
+
+- date: 2019-10-06
+  event: LinuxDays
+  eventlink: https://www.linuxdays.cz/2019/
+  title: Pokročilejší síťování v Linuxu
+  links:
+     - type: prezentace
+       url: /dl/slidy/20191006-LinuxDays-Pokrocilejsi_sitovani_v_Linuxu.pdf
+
+- date: 2019-09-10
+  event: CESNET
+  title: Správa a zabezpečení Linuxového serveru
+  links:
+     - type: prezentace
+       url: /dl/slidy/20190910-CESNET-Sprava_a_zabezpeceni_Linuxu.pdf
+
+- date: 2019-06-16
+  event: PyCon CZ
+  eventlink: https://cz.pycon.org/2019/
+  title: Mass correspondence with Inkscape and Python
+  lang: en
+  links:
+     - type: slides
+       url: /dl/slidy/20190616-PyConCZ-Mass_correspondence.pdf
+     - type: repository
+       url: https://github.com/LinuxDays/badge_card_generator
+
+- date: 2019-06-15
+  event: PyCon CZ
+  eventlink: https://cz.pycon.org/2019/
+  title: Presentation machine
+  lang: en
+  links:
+     - type: slides
+       url: /dl/slidy/20190615-PyConCZ-Presentation_machine.pdf
+
+- date: 2019-06-14
+  event: PyCon CZ
+  eventlink: https://cz.pycon.org/2019/
+  title: Counting DNSSEC for fun
+  lang: en
+  links:
+     - type: slides
+       url: /dl/slidy/20190614-PyConCZ-Counting_DNSSEC_for_fun.pdf
+     - type: repository
+       url: https://github.com/oskar456/walk_dotsk_ds
+
+- date: 2019-06-06
+  event: IPv6day
+  eventlink: https://www.cesnet.cz/akce/ipv6-2019/
+  title: E-mailové služby na IPv6-only
+  links:
+     - type: prezentace
+       url: /dl/slidy/20190606-IPv6day-E-mailove_sluzby_na_IPv6_only.pdf
+
+- date: 2019-05-30
+  event: FASTER
+  title: Nejčastější mýty o IPv6
+  links:
+     - type: prezentace
+       url: /dl/slidy/20190530-FASTER-Nejcastejsi_myty_o_IPv6.pdf
+
+- date: 2019-05-28
+  event: CSNOG
+  eventlink: https://indico.csnog.eu/event/6/contributions/49/
+  title: Introduction to NOGs, especially CSNOG
+  links:
+     - type: prezentace
+       url: /dl/slidy/20190528-CSNOG-Introduction_to_NOGs_esp_CSNOG.pdf
+
+- date: 2019-05-15
+  event: CESNET
+  title: Správa DNS
+  links:
+     - type: prezentace
+       url: /dl/slidy/20190515-CESNET-Sprava_DNS.pdf
+
+- date: 2019-05-14
+  event: CESNET LUG
+  title: Bezpečné doručování pošty
+  links:
+     - type: prezentace
+       url: /dl/slidy/20190514-CESNETLUG-Bezpecne_dorucovani_posty.pdf
+
+- date: 2019-04-13
+  event: OpenCamp
+  eventlink: https://opencamp.sk/
+  title: Digitální stopa a sociální sítě
+  links:
+     - type: prezentace
+       url: /dl/slidy/20190413-OpenCamp-Digitalni_stopa_a_socialni_site.pdf
+
+- date: 2019-04-13
+  event: OpenCamp
+  eventlink: https://opencamp.sk/
+  title: Hesla včera, dnes a zítra
+  links:
+     - type: prezentace
+       url: /dl/slidy/20190413-OpenCamp-Hesla_vcera_dnes_a_zitra.pdf
+
+- date: 2019-04-09
+  event: CESNET
+  eventlink: https://www.cesnet.cz/akce/skoleni-dns-2019/
+  title: Principy a správa DNS
+  links:
+     - type: prezentace
+       url: /dl/slidy/20190409-CESNET-Principy_a_sprava_DNS.pdf
+     - type: cvičení
+       url: /dl/slidy/20190409-CESNET-Principy_a_sprava_DNS-cviceni.pdf
+
+- date: 2019-03-03
+  event: InstallFest
+  eventlink: https://www.installfest.cz/if19/
+  title: Osobní poštovní server
+  links:
+     - type: prezentace
+       url: /dl/slidy/20190303-InstallFest-Osobni_postovni_server.pdf
+
+- date: 2019-01-31
+  event: BSS19
+  eventlink: https://www.cesnet.cz/sdruzeni/akce/bss19/
+  title: RPKI v e-infrastruktuře CESNET
+  links:
+     - type: prezentace
+       url: /dl/slidy/20190131-BSS19-RPKI_v_einfrastrukture_CESNET.pdf
+
+- date: 2019-01-31
+  event: BSS19
+  eventlink: https://www.cesnet.cz/sdruzeni/akce/bss19/
+  title: Ochrana soukromí v DNS
+  links:
+     - type: prezentace
+       url: /dl/slidy/20190131-BSS19-Ochrana_soukromi_v_DNS.pdf
+
+- date: 2018-12-19
+  event: Pyvo
+  eventlink: https://pyvo.cz/praha-pyvo/2018-12/
+  title: Jak nakreslit ručičkové hodiny
+  links:
+     - type: prezentace
+       url: https://docs.google.com/presentation/d/11zymTXAWujLNuZBaXF5MspweuwWTqIV9z5X2n02Racs/view
+     - type: video
+       url: https://youtu.be/dzkhGW5dMi8
+
+- date: 2018-12-05
+  event: OpenAlt
+  eventlink: https://www.openalt.org/pozvanka-na-158-sraz-openalt-praha
+  title: Plně šifrovaný disk na moderním systému
+  links:
+     - type: prezentace
+       url: /dl/slidy/20181205-OpenAlt-Plne_sifrovany_disk_na_modernim_systemu.pdf
+
+- date: 2018-12-03
+  event: ZČU
+  eventlink: https://secfest.zcu.cz/SecFest2018/
+  title: Hesla včera, dnes a zítra
+  links:
+     - type: prezentace
+       url: /dl/slidy/20181203-ZCU-Hesla_vcera_dnes_a_zitra.pdf
+     - type: video
+       url: https://youtu.be/kzdYbUVzqsI?t=1726
+
+- date: 2018-11-04
+  event: OpenAlt
+  eventlink: https://www.openalt.cz/2018/
+  title: Správa DNS zónových souborů v Gitu
+  links:
+     - type: prezentace
+       url: /dl/slidy/20181104-OpenAlt-Sprava_DNS_zonovych_souboru_v_Gitu.pdf
+
+- date: 2018-10-24
+  event: Security Fest
+  eventlink: https://www.cesnet.cz/akce/security-fest-2018/
+  title: Digitální stopa a sociální sítě
+  links:
+     - type: prezentace
+       url: /dl/slidy/20181024-SecurityFest-Digitalni_stopa_a_socialni_site.pdf
+     - type: video
+       url: https://youtu.be/O9KMG8EcxBM
+
+- date: 2018-10-17
+  event: RIPE 77
+  eventlink: https://ripe77.ripe.net/
+  title: Managing DNS zones using Git
+  lang: en
+  links:
+     - type: slides
+       url: /dl/slidy/20181017-RIPE77-Managing_DNS_zones_using_Git.pdf
+     - type: video
+       url: https://ripe77.ripe.net/archives/video/2234/
+     - type: transcript
+       url: https://ripe77.ripe.net/archives/steno/52/
+
+- date: 2018-10-07
+  event: LinuxDays
+  eventlink: https://www.linuxdays.cz/2018/
+  title: Správa DNS zónových souborů v Gitu
+  links:
+     - type: prezentace
+       url: /dl/slidy/20181007-LinuxDays-Sprava_DNS_v_Git.pdf
+     - type: video
+       url: https://youtu.be/0Xz33nEs_SQ
+
+- date: 2018-08-24
+  event: SNT2018
+  eventlink: https://studentennetze.de/snt/snt2018
+  title: E-mail services on IPv6-only
+  lang: en
+  links:
+     - type: slides
+       url: /dl/slidy/20180824-SNT2018-E_mail_services_on_IPv6_only.pdf
+
+- date: 2018-06-28
+  event: CESNET LUG
+  title: Zajímavé funkce OpenSSH
+  links:
+     - type: prezentace
+       url: /dl/slidy/20180628-CESNETLUG-OpenSSH.pdf
+     - type: video
+       url: https://youtu.be/TUQh6ROzRFU
+
+- date: 2018-06-20
+  event: Pyvo
+  eventlink: https://pyvo.cz/praha-pyvo/2018-06/
+  title: Back-end which powers LinuxDays.cz
+  lang: en
+  links:
+     - type: slides
+       url: /dl/slidy/20180620-Pyvo-Backend_which_powers_LinuxDays.pdf
+
+- date: 2018-06-06
+  event: IPv6day
+  eventlink: https://www.cesnet.cz/akce/ipv6-2018/
+  title: RIPE IPv6 update
+  links:
+     - type: prezentace
+       url: /dl/slidy/20180606-IPv6Day-RIPE_IPv6_update.pdf
+     - type: video
+       url: https://youtu.be/lu4m0uNkZEM
+
+- date: 2018-06-06
+  event: IPv6day
+  eventlink: https://www.cesnet.cz/akce/ipv6-2018/
+  title: Autokonfigurace IPv6 v lokální siti
+  links:
+     - type: prezentace
+       url: /dl/slidy/20180606-IPv6Day-Autokonfigurace_IPv6_v_lokalni_siti.pdf
+     - type: video
+       url: https://youtu.be/75110Zn_yF0
+
+- date: 2018-06-03
+  event: PyCon CZ
+  eventlink: https://cz.pycon.org/2018/programme/detail/workshop/12/
+  title: Analyzing results of RIPE Atlas measurements
+  lang: en
+  links:
+     - type: slides
+       url: /dl/slidy/20180603-PyCon-RIPE_Atlas_measurement_analysis.pdf
+
+- date: 2018-05-26
+  event: CryptoFest
+  eventlink: https://github.com/cryptofest/web/
+  title: Plně šifrovaný disk na moderním systému
+  links:
+     - type: prezentace
+       url: /dl/slidy/20180526-CryptoFest-Plne_sifrovany_disk_na_modernim_systemu.pdf
+     - type: video
+       url: https://youtu.be/kXGzezSSWEY
+
+- date: 2018-04-26
+  event: CESNET
+  eventlink: https://www.cesnet.cz/akce/proaktivni-bezpecnost/
+  title: Role certifikátů v bezpečné komunikaci
+  links:
+     - type: prezentace
+       url: /dl/slidy/20180426-CESNET-Role_certifikatu.pdf
+
+- date: 2018-04-26
+  event: CESNET
+  eventlink: https://www.cesnet.cz/akce/proaktivni-bezpecnost/
+  title: DNS infrastruktura
+  links:
+     - type: prezentace
+       url: /dl/slidy/20180426-CESNET-DNS_infrastruktura.pdf
+
+- date: 2018-04-21
+  event: OpenCamp
+  eventlink: https://opencamp.sk/
+  title: eduroam zbavený tajomstiev
+  links:
+     - type: prezentácie
+       url: /dl/slidy/20180421-OpenCamp-eduroam_zbaveny_tajomstiev.pdf
+     - type: video
+       url: https://youtu.be/EVoCFQaMDQs
+
+- date: 2018-03-04
+  event: InstallFest
+  eventlink: https://installfest.cz/if18/
+  title: Analýza měření RIPE Atlas v Pythonu
+  links:
+     - type: prezentace
+       url: /dl/slidy/20180304-InstallFest-Analyza_mereni_RIPE_Atlas.pdf
+
+- date: 2018-03-04
+  event: InstallFest
+  eventlink: https://installfest.cz/if18/
+  title: Netiketa v e-mailové komunikaci
+  links:
+     - type: prezentace
+       url: /dl/slidy/20180304-InstallFest-Netiketa_v_e-mailove_komunikaci.pdf
+     - type: video
+       url: https://youtu.be/OMLvEDIVL2g
+
+- date: 2018-02-21
+  event: Pyvo
+  eventlink: https://pyvo.cz/praha-pyvo/2018-02/
+  title: Šifrováním k nebezpečnosti
+  links:
+     - type: prezentace
+       url: http://slides.com/oskar456/sifrovani-rb/
+
+- date: 2018-02-06
+  event: BSS18
+  eventlink: https://www.cesnet.cz/sdruzeni/akce/bss18/
+  title: Kurz Správa a zabezpečení Linuxového serveru
+  links:
+     - type: prezentace
+       url: /dl/slidy/20180206-BSS18-kurz_sprava_a_zabezpeceni_Linux.pdf
+
+- date: 2018-02-06
+  event: BSS18
+  eventlink: https://www.cesnet.cz/sdruzeni/akce/bss18/
+  title: Rok se zákonem o hazardních hrách
+  links:
+     - type: prezentace
+       url: /dl/slidy/20180206-BSS18-Rok_se_ZHH.pdf
+
+- date: 2018-02-06
+  event: BSS18
+  eventlink: https://www.cesnet.cz/sdruzeni/akce/bss18/
+  title: Role certifikátů v bezpečné komunikaci
+  links:
+     - type: prezentace
+       url: /dl/slidy/20180206-BSS18-Role_certifikatu.pdf
+
+- date: 2018-01-15
+  event: PAČR
+  eventlink: http://www.polac.cz/g2/view.php?inf_stud/kata17/k25.html
+  title: Digitální stopy v internetové komunikaci
+  links:
+     - type: prezentace
+       url: /dl/slidy/20180115-PACR-Digitalni_stopy_v_internetove_komunikaci.pdf
+
+- date: 2017-11-29
+  event: ZČU
+  eventlink: https://secfest.zcu.cz/SecFest2017/
+  title: Co musíte vědět o šifrování
+  links:
+     - type: prezentace
+       url: /dl/slidy/20171129-ZCU-Co_musite_vedet_o_sifrovani.pdf
+
+- date: 2017-11-05
+  event: OpenAlt
+  eventlink: https://www.openalt.cz/2017/
+  title: E-mailové reputační systémy
+  links:
+     - type: prezentace
+       url: /dl/slidy/20171105-OpenAlt-E-mailove_reputacni_systemy.pdf
+
+- date: 2017-10-31
+  event: Security Fest
+  eventlink: https://www.cesnet.cz/sdruzeni/akce/security-fest-2017/
+  title: Co musíte vědět o šifrování
+  links:
+     - type: prezentace
+       url: /dl/slidy/20171031-SecurityFest-Co_musite_vedet_o_sifrovani.pdf
+
+- date: 2017-10-17
+  event: UNOB
+  title: Placení na Internetu
+  links:
+     - type: prezentace
+       url: /dl/slidy/20171017-UNOB-Placeni_na_Internetu.pdf
+
+- date: 2017-10-17
+  event: UNOB
+  title: Digitální stopa a sociální sítě
+  links:
+     - type: prezentace
+       url: /dl/slidy/20171017-UNOB-Digitalni_stopa_a_socialni_site.pdf
+
+- date: 2017-10-08
+  event: LinuxDays
+  eventlink: https://www.linuxdays.cz/2017/
+  title: IPv6 tunely pomocí OpenVPN
+  links:
+     - type: prezentace
+       url: /dl/slidy/20171008-LinuxDays-IPv6_tunely_pomoci_OpenVPN.pdf
+     - type: video
+       url: https://youtu.be/KZC_XcG4lmo
+
+- date: 2017-08-23
+  event: Root.cz
+  eventlink: https://www.root.cz/skoleni/termin/principy-a-sprava-dns-a-dnssec-6/
+  title: Principy a správa DNS
+  links:
+     - type: prezentace
+       url: /dl/slidy/20170823-Root.cz-Principy_a_sprava_DNS.pdf
+     - type: cvičení
+       url: /dl/slidy/20170823-Root.cz-Principy_a_sprava_DNS-cviceni.pdf
+
+- date: 2017-06-18
+  event: OSS Víkend
+  eventlink: http://ossvikend.sk/
+  title: E-mailové reputační systémy
+  links:
+     - type: prezentace
+       url: /dl/slidy/20170618-OSSVikend-E-mailove_reputacni_systemy.pdf
+     - type: video
+       url: https://youtu.be/2vDl3D-WsPE
+
+- date: 2017-06-15
+  event: Root.cz
+  eventlink: https://www.root.cz/skoleni/termin/principy-a-sprava-dns-a-dnssec-5/
+  title: Principy a správa DNS
+  links:
+     - type: prezentace
+       url: /dl/slidy/20170615-Root.cz-Principy_a_sprava_DNS.pdf
+     - type: cvičení
+       url: /dl/slidy/20170615-Root.cz-Principy_a_sprava_DNS-cviceni.pdf
+
+- date: 2017-06-06
+  event: IPv6day
+  eventlink: https://www.cesnet.cz/sdruzeni/akce/ipv6-2017/
+  title: BCOP aneb jak nejlépe IPv6 nasazovat
+  links:
+     - type: prezentace
+       url: /dl/slidy/20170606-IPv6day-BCOP-IPv6-PD.pdf
+     - type: video
+       url: https://youtu.be/dGLm9wVPKwU
+
+- date: 2017-05-25
+  event: DAT
+  eventlink: http://www.dat.cz/doc/konference-internet-a-komunikace
+  title: Nejčastější mýty o IPv6
+  links:
+     - type: prezentace
+       url: /dl/slidy/20170525-DAT-Nejcastejsi_myty_o_IPv6.pdf
+
+- date: 2017-05-17
+  event: EurOpen
+  eventlink: http://www.europen.cz/konference
+  title: E-mailové reputační systémy
+  links:
+     - type: prezentace
+       url: /dl/slidy/20170517-EurOpen-E-mailove_reputacni_systemy.pdf
+     - type: sborník
+       url: /dl/slidy/20170517-EurOpen-E-mailove_reputacni_systemy-sbornik.pdf
+
+- date: 2017-04-19
+  event: CESNET
+  eventlink: https://www.cesnet.cz/sdruzeni/akce/skoleni-principy-a-sprava-dns/
+  title: Principy a správa DNS
+  links:
+     - type: prezentace
+       url: /dl/slidy/20170419-CESNET-Principy_a_sprava_DNS.pdf
+     - type: cvičení
+       url: /dl/slidy/20170419-CESNET-Principy_a_sprava_DNS-cviceni.pdf
+
+- date: 2017-04-11
+  event: CESNET
+  title: Pracovní skupina IPv6
+  links:
+     - type: prezentace
+       url: /dl/slidy/20170411-CESNET-IPv6WG.pdf
+
+- date: 2017-03-05
+  event: InstallFest
+  eventlink: https://installfest.cz/if17/
+  title: Analýza otrávené DNS cache
+  links:
+     - type: prezentace
+       url: /dl/slidy/20170305-InstallFest-Analyza_otravene_DNS_cache.pdf
+
+- date: 2017-02-07
+  event: CESNET
+  eventlink: https://www.cesnet.cz/sdruzeni/akce/bss17/
+  title: Falšování DNS s RPZ i bez
+  links:
+     - type: prezentace
+       url: /dl/slidy/20170207-CESNET-Falsovani-DNS-s-RPZ-i-bez.pdf
+
+- date: 2017-02-07
+  event: CESNET
+  eventlink: https://www.cesnet.cz/sdruzeni/akce/bss17/
+  title: Analýza otrávené DNS cache
+  links:
+     - type: prezentace
+       url: /dl/slidy/20170207-CESNET-Analyza-otravene-DNS-cache.pdf
+
+- date: 2017-01-16
+  event: PAČR
+  eventlink: http://www.polac.cz/g2/view.php?inf_stud/kata16/k34.html
+  title: Stránka, doména, URL, adresa…
+  links:
+     - type: prezentace
+       url: /dl/slidy/20170116-PACR-Stranka_domena_url_adresa.pdf
+
+- date: 2016-12-05
+  event: ZČU
+  eventlink: https://secfest.zcu.cz/SecFest2016/
+  title: Placení na Internetu
+  links:
+     - type: prezentace
+       url: /dl/slidy/20161205-ZCU-Placeni_na_Internetu.pdf
+     - type: video
+       url: https://youtu.be/Fl9q1wGppRE?t=1:00:39
+
+- date: 2016-12-01
+  event: Root.cz
+  eventlink: https://www.root.cz/skoleni/termin/principy-a-sprava-dns-a-dnssec-3/
+  title: Principy a správa DNS
+  links:
+     - type: prezentace
+       url: /dl/slidy/20161201-Root.cz-Principy_a_sprava_DNS.pdf
+     - type: cvičení
+       url: /dl/slidy/20161201-Root.cz-Principy_a_sprava_DNS-cviceni.pdf
+
+- date: 2016-11-05
+  event: OpenAlt
+  eventlink: https://openalt.cz/2016/
+  title: DNSSEC na vlastní doméně snadno a rychle
+  links:
+     - type: prezentace
+       url: /dl/slidy/20161105-OpenAlt-DNSSEC_snadno_a_rychle.pdf
+
+- date: 2016-10-27
+  event: RIPE 73
+  eventlink: https://ripe73.ripe.net/
+  title: E-mail services on IPv6-only
+  lang: en
+  links:
+     - type: slides
+       url: /dl/slidy/20161027-RIPE73-e-mail-services-on-IPv6-only.pdf
+     - type: video
+       url: https://ripe73.ripe.net/archives/video/1518/
+     - type: transcript
+       url: https://ripe73.ripe.net/archives/steno/40/
+
+- date: 2016-10-20
+  event: Security Fest
+  eventlink: https://www.cesnet.cz/sdruzeni/akce/security-fest-2016/
+  title: Úvodní slovo
+  links:
+     - type: prezentace
+       url: /dl/slidy/20161020-SecurityFest-Uvodni_slovo.pdf
+
+- date: 2016-10-11
+  event: CESNET
+  title: Passive DNS
+  links:
+     - type: prezentace
+       url: /dl/slidy/20161011-CESNET-Passive_DNS.pdf
+
+- date: 2016-10-09
+  event: LinuxDays
+  eventlink: https://www.linuxdays.cz/2016/
+  title: eduroam tajemství zbavený
+  links:
+     - type: prezentace
+       url: /dl/slidy/20161009-LinuxDays-eduroam_tajemstvi_zbaveny.pdf
+     - type: video
+       url: https://youtu.be/NyZRwLuh_Wc
+
+- date: 2016-09-09
+  event: NLNOG Day
+  eventlink: https://nlnog.net/nlnog-day-2016/
+  title: The FENIX Project – The walled Garden of Eden?
+  lang: en
+  links:
+     - type: slides
+       url: /dl/slidy/20160909-NLNOGDay-FENIX_the_walled_Garden_of_Eden.pdf
+
+- date: 2016-08-30
+  event: Root.cz
+  eventlink: https://www.root.cz/skoleni/termin/principy-a-sprava-dns-a-dnssec-2/
+  title: Principy a správa DNS
+  links:
+     - type: prezentace
+       url: /dl/slidy/20160830-Root.cz-Principy_a_sprava_DNS.pdf
+     - type: cvičení
+       url: /dl/slidy/20160830-Root.cz-Principy_a_sprava_DNS-cviceni.pdf
+
+- date: 2016-06-06
+  event: IPv6day
+  eventlink: https://www.cesnet.cz/sdruzeni/akce/seminar-ipv6/
+  title: Role síťové masky v IPv6
+  links:
+     - type: prezentace
+       url: /dl/slidy/20160606-IPv6day-Role_sitove_masky_v_IPv6.pdf
+     - type: video
+       url: https://youtu.be/Avtb85UJBdo
+
+- date: 2016-06-06
+  event: IPv6day
+  eventlink: https://www.cesnet.cz/sdruzeni/akce/seminar-ipv6/
+  title: Dual-stack jako řešení přechodu?
+  links:
+     - type: prezentace
+       url: /dl/slidy/20160606-IPv6day-Dual_stack_jako_reseni_prechodu.pdf
+     - type: video
+       url: https://youtu.be/qxhWYchn2b0
+
+- date: 2016-05-31
+  event: IT16
+  eventlink: https://www.nic.cz/it16
+  title: DoS útoky v síti CESNET2
+  links:
+     - type: prezentace
+       url: /dl/slidy/20160531-IT16-DoS_utoky_v_siti_CESNET2.pdf
+     - type: video
+       url: https://youtu.be/hhf2C5GlI7o
+
+- date: 2016-05-05
+  event: Root.cz
+  eventlink: https://www.root.cz/skoleni/termin/principy-a-sprava-dns-a-dnssec/
+  title: Principy a správa DNS
+  links:
+     - type: prezentace
+       url: /dl/slidy/20160505-Root.cz-Principy_a_sprava_DNS.pdf
+     - type: cvičení
+       url: /dl/slidy/20160505-Root.cz-Principy_a_sprava_DNS-cviceni.pdf
+
+- date: 2016-04-12
+  event: SUT
+  eventlink: http://sut.sh.cvut.cz/view.php?cisloclanku=2016030001
+  title: Úvod do RIPE
+  links:
+     - type: prezentace
+       url: /dl/slidy/20160412-SUT-Uvod_do_RIPE.pdf
+     - type: video
+       url: https://youtu.be/zzANjaP_wKo
+
+- date: 2016-04-02
+  event: Security Session
+  eventlink: https://security-session.cz/#Program5
+  title: Bezpečnější pošta díky protokolu DANE
+  links:
+     - type: prezentace
+       url: /dl/slidy/20160402-SecSession-Bezpecnejsi_posta.pdf
+
+- date: 2016-03-15
+  event: CS Danube
+  eventlink: https://www.nic.cz/csdanube/
+  title: DDoS attacks in CESNET2
+  lang: en
+  links:
+     - type: slides
+       url: /dl/slidy/20160315-CSDanube-DDoS_attacks_in_CESNET2.pdf
+
+- date: 2016-03-06
+  event: InstallFest
+  eventlink: http://installfest.cz/if16/
+  title: DNSSEC na vlastní doméně snadno a rychle
+  links:
+     - type: prezentace
+       url: /dl/slidy/20160306-InstallFest-DNSSEC_snadno_a_rychle.pdf
+     - type: video
+       url: https://youtu.be/-CsmcxlrvYU
+
+- date: 2016-02-09
+  event: CESNET
+  eventlink: https://www.cesnet.cz/sdruzeni/akce/seminar-o-bezpecnosti/
+  title: Útoky na DNS a možnosti obrany
+  links:
+     - type: prezentace
+       url: /dl/slidy/20160209-CESNET-Utoky_na_DNS.pdf
+
+- date: 2015-12-14
+  event: CESNET
+  title: Správa a zabezpečení DNS
+  links:
+     - type: prezentace
+       url: /dl/slidy/20151214-CESNET-Sprava_a_zabezpeceni_DNS.pdf
+
+- date: 2015-12-03
+  event: Root.cz
+  eventlink: http://www.root.cz/skoleni/termin/principy-a-sprava-dns-a-dnssec/
+  title: Principy a správa DNS
+  links:
+     - type: prezentace
+       url: /dl/slidy/20151203-CESNET-Principy_a_sprava_DNS.pdf
+     - type: cvičení
+       url: /dl/slidy/20151203-CESNET-Principy_a_sprava_DNS-cviceni.pdf
+
+- date: 2015-11-20
+  event: RIPE 71
+  eventlink: https://ripe71.ripe.net/
+  title: A measurement of SMTP over TLS
+  lang: en
+  links:
+     - type: slides
+       url: /dl/slidy/20151120-RIPE71-A_measurement_of_SMTP_over_TLS.pdf
+     - type: video
+       url: https://ripe71.ripe.net/archives/video/1344/
+     - type: transcript
+       url: https://ripe71.ripe.net/archives/steno/44/
+
+- date: 2015-11-12
+  event: ORS
+  eventlink: http://ors.slu.cz
+  title: Bezpečnější pošta aneb DANE for SMTP
+  links:
+     - type: prezentace
+       url: /dl/slidy/20151112-ORS-Bezpecnejsi_posta.pdf
+
+- date: 2015-11-10
+  event: GÉANT
+  eventlink: https://wiki.geant.org/display/SIGNOC/2nd+SIG-NOC+meeting+and+DDoS+Mitigation+Workshop
+  title: FENIX and CESNET approach to DDoS problematic
+  lang: en
+  links:
+     - type: slides
+       url: /dl/slidy/20151110-GEANT-FENIX_and_CESNET_approach_to_DDoS.pdf
+
+- date: 2015-11-08
+  event: OpenAlt
+  eventlink: https://openalt.cz/2015/cs/visitor_home.html
+  title: Bezpečnější e-mail díky DANE
+  links:
+     - type: prezentace
+       url: /dl/slidy/20151108-OpenAlt-Bezpecnejsi_e-mail.pdf
+
+- date: 2015-10-21
+  event: Security Fest
+  eventlink: https://www.cesnet.cz/sdruzeni/akce/security-fest/
+  title: Mobilní zranitelnosti
+  links:
+     - type: prezentace
+       url: /dl/slidy/20151012-SecurityFest-Mobilni_zranitelnosti.pdf
+
+- date: 2015-10-11
+  event: LinuxDays
+  eventlink: https://www.linuxdays.cz/2015/
+  title: Pojďme šifrovat, aneb ACME, továrna na certifikáty
+  links:
+     - type: prezentace
+       url: /dl/slidy/20151011-LinuxDays-Lets_Encrypt.pdf
+     - type: video
+       url: https://youtu.be/BPoS4Ocj9lo
+
+- date: 2015-09-15
+  event: CESNET
+  eventlink: //www.cesnet.cz/sdruzeni/akce/skoleni-principy-a-sprava-dns/
+  title: Principy a správa DNS
+  links:
+     - type: prezentace
+       url: /dl/slidy/20150915-CESNET-Principy_a_sprava_DNS.pdf
+     - type: cvičení
+       url: /dl/slidy/20150915-CESNET-Principy_a_sprava_DNS-cviceni.pdf
+
+- date: 2015-06-06
+  event: Cryptofest
+  eventlink: http://cryptofest.cz/
+  title: DNSSEC pro běžného uživatele
+  links:
+     - type: prezentace
+       url: /dl/slidy/20150606-Cryptofest-DNSSEC_pro_bezneho_uzivatele.pdf
+     - type: video
+       url: https://youtu.be/IMIdlED36q4
+     - type: workshop
+       url: https://youtu.be/vJycohS5kaA
+
+- date: 2015-04-21
+  event: CESNET
+  title: RIPE Atlas a NLNOG RING
+  links:
+     - type: prezentace
+       url: /dl/slidy/20150421-CESNET-RIPE_Atlas_NLNOG_RING.pdf
+
+- date: 2015-03-07
+  event: InstallFest
+  eventlink: http://installfest.cz/if15/
+  title: BusyBox a Dnsmasq (s Petrem Krčmářem)
+  links:
+     - type: prezentace
+       url: /dl/slidy/20150307-InstallFest-BusyBox_a_Dnsmasq.pdf
+     - type: video
+       url: https://youtu.be/g7w1p9hZlIA
+
+- date: 2015-02-11
+  event: CESNET
+  eventlink: https://www.cesnet.cz/sdruzeni/akce/bezpecnost-15/
+  title: Novinky v DNS
+  links:
+     - type: prezentace
+       url: /dl/slidy/20150211-CESNET-Novinky_v_DNS.pdf
+
+- date: 2014-11-29
+  event: IT 14.2
+  eventlink: http://www.nic.cz/it14.2/
+  title: "TurriSoutěž: Turrisem řízené hodiny"
+  links:
+     - type: prezentace
+       url: /dl/slidy/20141129-IT14.2-Turrisem_rizene_hodiny.pdf
+     - type: video
+       url: http://www.nic.cz/public_media/IT14.2/videa/Ondrej_Caletka.mp4
+
+- date: 2014-11-11
+  event: SUT
+  eventlink: http://sut.sh.cvut.cz/view.php?nazevclanku=program-seminaru-zs-20142015&cisloclanku=2014090001
+  title: DNS jak ho možná neznáte
+  links:
+     - type: prezentace
+       url: /dl/slidy/20141111-SUT-DNS_jak_ho_neznate.pdf
+     - type: video
+       url: https://youtu.be/UxrlB6XE0Cg
+
+- date: 2014-11-04
+  event: RIPE 69
+  eventlink: https://ripe69.ripe.net/
+  title: Challenges in endpoint DNSSEC
+  lang: en
+  links:
+     - type: slides
+       url: /dl/slidy/20141104-RIPE_69-Challenges_in_endpoint_DNSSEC.pdf
+     - type: video
+       url: https://ripe69.ripe.net/archives/video/10116/
+     - type: transcript
+       url: https://ripe69.ripe.net/archives/steno/27/
+
+- date: 2014-11-01
+  event: OpenAlt
+  eventlink: http://www.openalt.cz/2014/
+  title: Jak se měří Internet
+  links:
+     - type: prezentace
+       url: /dl/slidy/20141101-OpenAlt-Jak_se_meri_Internet.pdf
+     - type: video
+       url: http://www.superlectures.com/openalt2014/jak-se-meri-internet
+
+- date: 2014-10-05
+  event: LinuxDays
+  eventlink: https://www.linuxdays.cz/
+  title: IPv6 v OpenWRT 14.07 Barrier Breaker
+  links:
+     - type: prezentace
+       url: /dl/slidy/20141005-LinuxDays-IPv6_v_OpenWRT_14_07_Barrier_Breaker.pdf
+     - type: video
+       url: https://youtu.be/2OJIkpCO3hc
+
+- date: 2014-10-04
+  event: LinuxDays
+  eventlink: https://www.linuxdays.cz/
+  title: "StartSSL: certifikáty zdarma"
+  links:
+     - type: prezentace
+       url: /dl/slidy/20141004-LinuxDays-StartSSL_certifikaty_zdarma.pdf
+     - type: video
+       url: https://youtu.be/Ou_h-6Gcr6M
+
+- date: 2014-10-04
+  event: LinuxDays
+  eventlink: https://www.linuxdays.cz/
+  title: Jak se měří Internet
+  links:
+     - type: prezentace
+       url: /dl/slidy/20141004-LinuxDays-Jak_se_meri_Internet.pdf
+     - type: video
+       url: https://youtu.be/LSF99b3rE38
+
+- date: 2014-05-23
+  event: IT14
+  eventlink: http://www.nic.cz/it14/
+  title: Passive DNS
+  links:
+     - type: prezentace
+       url: /dl/slidy/20140523-IT14-Passive_DNS.pdf
+     - type: video
+       url: http://www.nic.cz/public_media/IT14/videa/Ondrej_Caletka.mp4
+
+- date: 2014-03-27
+  event: CESNET
+  title: Mobilní zranitelnosti
+  links:
+     - type: prezentace
+       url: /dl/slidy/20140327-CESNET-Mobilni_zranitelnosti.pdf
+
+- date: 2014-03-13
+  event: UPOL
+  eventlink: http://www.prf.upol.cz/aktualita/clanek/seminar-sdruzeni-cesnet/
+  title: Mobilní zranitelnosti
+  links:
+     - type: prezentace
+       url: /dl/slidy/20140313-UPOL-Mobilni_zranitelnosti.pdf
+
+- date: 2014-03-02
+  event: InstallFest
+  eventlink: http://installfest.cz/if14/
+  title: Provozování DNS
+  links:
+     - type: prezentace
+       url: /dl/slidy/20140302-InstallFest-Provozovani_DNS.pdf
+     - type: video
+       url: https://youtu.be/BdQBXOfBmtE
+
+- date: 2014-03-01
+  event: InstallFest
+  eventlink: http://installfest.cz/if14/
+  title: Úvod do OpenWRT
+  links:
+     - type: prezentace
+       url: /dl/slidy/20140301-InstallFest-Uvod_do_OpenWRT.pdf
+     - type: video
+       url: https://youtu.be/ih1m_YsEoNU
+
+- date: 2014-02-04
+  event: CESNET
+  eventlink: http://www.cesnet.cz/sdruzeni/akce/bezpecny-provoz-siti-a-sluzeb/
+  title: Provozování DNS
+  links:
+     - type: prezentace
+       url: /dl/slidy/20140204-CESNET-Provozovani_DNS.pdf
+
+- date: 2013-11-05
+  event: SUT
+  eventlink: http://sut.sh.cvut.cz/
+  title: Televize v síti SH
+  links:
+     - type: prezentace
+       url: /dl/slidy/20131105-SUT-Televize_v_siti_SH.pdf
+     - type: hangout
+       url: https://youtu.be/CgQbUBciVvY?t=9m38s
+     - type: video
+       url: https://youtu.be/24D9HfYW3T4
+
+- date: 2013-11-03
+  event: LinuxAlt
+  eventlink: http://www.linuxalt.cz/2013/
+  title: Raspberry Pi v domácí automatizaci
+  links:
+     - type: prezentace
+       url: /dl/slidy/20131103-LinuxAlt-RaspberryPi_v_domaci_automatizaci.pdf
+     - type: video
+       url: http://www.superlectures.com/linuxalt2013/raspberry-pi-v-domaci-automatizaci
+
+- date: 2013-11-03
+  event: LinuxAlt
+  eventlink: http://www.linuxalt.cz/2013/
+  title: OpenVPN a BIRD (workshop)
+  links:
+     - type: prezentace
+       url: /dl/slidy/20131103-LinuxAlt-OpenVPN_a_BIRD_workshop.pdf
+
+- date: 2013-10-23
+  event: ORS
+  eventlink: http://ors.slu.cz
+  title: E-mailové služby a IPv6
+  links:
+     - type: prezentace
+       url: /dl/slidy/20131023-OpenSource_reseni_v_sitich-e-mailove_sluzby_IPv6.pdf
+     - type: video
+       url: http://ors.slu.cz/node/71
+
+- date: 2013-10-06
+  event: LinuxDays
+  eventlink: http://www.linuxdays.cz
+  title: Raspberry Pi v domácí automatizaci
+  links:
+     - type: prezentace
+       url: /dl/slidy/20131006-LinuxDays-RaspberryPi_v_domaci_automatizaci.pdf
+
+- date: 2013-10-05
+  event: LinuxDays
+  eventlink: http://www.linuxdays.cz
+  title: Od CGI k FastCGI
+  links:
+     - type: prezentace
+       url: /dl/slidy/20131005-LinuxDays-Od_CGI_k_FastCGI.pdf
+     - type: ukázky
+       url: /dl/slidy/20131005-LinuxDays-Od_CGI_k_FastCGI-ukazky.tar.xz
+
+- date: 2013-10-05
+  event: LinuxDays
+  eventlink: http://www.linuxdays.cz
+  title: "Demo: Multipath TCP"
+  links:
+     - type: prezentace
+       url: /dl/slidy/20131005-LinuxDays-Demo_MPTCP.pdf
+
+- date: 2013-06-01
+  event: CryptoFest
+  eventlink: http://www.cryptofest.cz
+  title: OpenSSH
+  links:
+     - type: prezentace
+       url: /dl/slidy/20130601-Cryptofest-OpenSSH.pdf
+     - type: video
+       url: https://youtu.be/7_6FLD7InEk
+
+- date: 2013-04-23
+  event: SUT
+  eventlink: http://sut.sh.cvut.cz/
+  title: Raspberry Pi
+  links:
+     - type: prezentace
+       url: /dl/slidy/20130423-SUT-RaspberryPi.pdf
+     - type: video
+       url: https://youtu.be/X_EgwvqflVw
+
+- date: 2013-03-03
+  event: InstallFest
+  eventlink: http://www.installfest.cz/if13/
+  title: OpenVPN
+  links:
+     - type: prezentace
+       url: /dl/slidy/20130303-InstallFest-OpenVPN.pdf
+     - type: workshop
+       url: /dl/slidy/20130303-InstallFest-OpenVPN_a_BIRD_workshop.pdf
+
+- date: 2012-11-27
+  event: SUT
+  eventlink: http://sut.sh.cvut.cz/
+  title: Linux RAID, LVM
+  links:
+     - type: prezentace
+       url: /dl/slidy/20121127-SUT-Linux_RAID_LVM.pdf
+
+- date: 2012-11-04
+  event: LinuxAlt
+  eventlink: http://www.linuxalt.cz/2012/
+  title: Triky s OpenSSH
+  links:
+     - type: prezentace
+       url: /dl/slidy/20121104-LinuxAlt-Triky_s_OpenSSH.pdf
+
+- date: 2012-11-03
+  event: LinuxAlt
+  eventlink: http://www.linuxalt.cz
+  title: DNS pro začátečníky
+  links:
+     - type: prezentace
+       url: /dl/slidy/20121103-LinuxAlt-DNS_pro_zacatecniky.pdf
+
+- date: 2012-10-04
+  event: GN3 IPv6
+  eventlink: http://www.csc.fi/csc/kurssit/arkisto/gn3_ipv6_ws2012
+  title: IPv6 e-mail services
+  lang: en
+  links:
+     - type: slides
+       url: /dl/slidy/20121004-GN3_IPv6_workshop-IPv6_e-mail_services.pdf
+
+- date: 2012-06-06
+  event: IPv6 Day
+  eventlink: http://www.nic.cz/ipv6day/
+  title: IPv6 na OpenWRT
+  links:
+     - type: prezentace
+       url: /dl/slidy/20120606-IPv6Day-IPv6_na_OpenWRT.pdf
+
+- date: 2012-03-04
+  event: InstallFest
+  eventlink: http://www.installfest.cz/if12/
+  title: IPv6 – buďte připraveni
+  links:
+     - type: prezentace
+       url: /dl/slidy/20120304-InstallFest-IPv6_budte_pripraveni.pdf
+
+- date: 2012-03-01
+  event: TIB
+  eventlink: http://www.tuesday.cz/akce/trendy-internetove-bezpecnosti-1/
+  title: Zabezpečení Wi-Fi sítí
+  links:
+     - type: prezentace
+       url: /dl/slidy/20120301-Trendy_v_Internetove_bezpecnosti-Zabezpeceni_Wi-Fi_siti.pdf
+
+- date: 2011-03-06
+  event: InstallFest
+  eventlink: http://www.installfest.cz/if11/
+  title: OpenWRT
+  links:
+     - type: prezentace
+       url: /dl/slidy/20110306-InstallFest-OpenWRT-prednaska.pdf
+     - type: workshop
+       url: /dl/slidy/20110306-InstallFest-OpenWRT-workshop.pdf
+
+- date: 2011-02-26
+  event: <abbr title="Trendy v Internetové bezpečnosti">TIB</abbr>
+  title: IPv6 – nové (ne)bezpečí?
+  links:
+     - type: prezentace
+       url: /dl/slidy/20110226-Trendy_v_Internetove_bezpecnosti-IPv6-nove_nebezpeci.pdf
+
+- date: 2010-11-23
+  event: SUT
+  eventlink: http://sut.sh.cvut.cz/
+  title: Zálohování pro začátečníky
+  links:
+     - type: prezentace
+       url: /dl/slidy/20101123-SUT-Zalohovani_pro_zacatecniky.pdf
+
+- date: 2010-03-24
+  event: SUT
+  eventlink: http://sut.sh.cvut.cz/
+  title: OpenWRT
+  links:
+     - type: prezentace
+       url: /dl/slidy/20100324-SUT-OpenWRT.pdf
+
+- date: 2010-03-07
+  event: InstallFest
+  eventlink: http://www.installfest.cz/if10/
+  title: Úvod do síťování
+  links:
+     - type: prezentace
+       url: /dl/slidy/20100307-InstallFest-Uvod_do_sitovani.pdf
+     - type: workshop
+       url: /dl/slidy/20100307-InstallFest-Uvod_do_sitovani_workshop.zip
+
+- date: 2009-11-03
+  event: SUT
+  eventlink: http://sut.sh.cvut.cz/
+  title: Linux RAID, LVM
+  links:
+     - type: prezentace
+       url: /dl/slidy/20091103-SUT-Linux_RAID_LVM.pdf
+
+- date: 2009-10-27
+  event: SUT
+  eventlink: http://sut.sh.cvut.cz/
+  title: HTTP tunelování
+  links:
+     - type: prezentace
+       url: /dl/slidy/20091027-SUT-HTTP_tunelovani.pdf
+
+- date: 2009-03-15
+  event: InstallFest
+  eventlink: http://www.installfest.cz/if09
+  title: IPv6 a Linux
+  links:
+     - type: prezentace
+       url: /dl/slidy/20090315-InstallFest-IPv6_a_Linux-prednaska.pdf
+     - type: workshop
+       url: /dl/slidy/20090315-InstallFest-IPv6_a_Linux-workshop.pdf
+
+- date: 2008-05-07
+  event: SUT
+  eventlink: http://sut.sh.cvut.cz/
+  title: Speciál – Technika pražského Metra 2
+  links:
+     - type: prezentace
+       url: /dl/slidy/20080507-SUT-Technika_prazskeho_metra_2.pdf
+     - type: video
+       url: https://youtu.be/0Hw5NqvzcWw
+
+- date: 2008-04-22
+  event: SUT
+  eventlink: http://sut.sh.cvut.cz/
+  title: Speciál – Technika pražského Metra 1
+  links:
+     - type: prezentace
+       url: /dl/slidy/20080422-SUT-Technika_prazskeho_metra_1.pdf
+     - type: video
+       url: https://youtu.be/xay6UkrLuh4
+
+- date: 2007-12-04
+  event: SUT
+  eventlink: http://sut.sh.cvut.cz/
+  title: Speciál – Typy tramvajových vozů
+  links:
+     - type: prezentace
+       url: /dl/slidy/20071204-SUT-Typy_tramvajovych_vozu.pdf
+     - type: video
+       url: https://youtu.be/Fvonpm0-ul0
+
+- date: 2007-03-27
+  event: SUT
+  eventlink: http://sut.sh.cvut.cz/
+  title: Live GNU/Linux
+  links:
+     - type: prezentace
+       url: /dl/slidy/20070327-SUT-Live_GNU_Linux.pdf
+
+- date: 2007-03-13
+  event: SUT
+  eventlink: http://sut.sh.cvut.cz/
+  title: Speciál – Technika pražských tramvají
+  links:
+     - type: prezentace
+       url: /dl/slidy/20070313-SUT-Technika_prazskych_tramvaji.pdf
+     - type: video
+       url: https://youtu.be/sw0bIkMGUno
+
+- date: 2006-11-02
+  event: SUT
+  eventlink: http://sut.sh.cvut.cz/
+  title: Linux jako broadband router (2)
+  links:
+     - type: prezentace
+       url: /dl/slidy/20061102-SUT-Linux_jako_router_2.pdf
+     - type: video
+       url: https://youtu.be/sNBngb365ig
+
+- date: 2006-10-19
+  event: SUT
+  eventlink: http://sut.sh.cvut.cz/
+  title: Linux jako broadband router (1)
+  links:
+     - type: prezentace
+       url: /dl/slidy/20061019-SUT-Linux_jako_router_1.pdf
+     - type: video
+       url: https://youtu.be/08Fh2cMvCcI
+
+- date: 2006-05-11
+  event: SUT
+  eventlink: http://sut.sh.cvut.cz/
+  title: Osobní firewall s iptables
+  links:
+     - type: prezentace
+       url: /dl/slidy/20060511-SUT-IPtables.pdf
+     - type: video
+       url: https://youtu.be/_2DnQP5EAog
+
+- date: 2006-03-23
+  event: SUT
+  eventlink: http://sut.sh.cvut.cz/
+  title: OpenVPN
+  links:
+     - type: prezentace
+       url: /dl/slidy/20060323-SUT-OpenVPN.pdf
+     - type: video
+       url: https://youtu.be/yYE--clwjCM
+
+- date: 2005-12-01
+  event: SUT
+  eventlink: http://sut.sh.cvut.cz/
+  title: Zásuvné autentifikační moduly
+  links:
+     - type: prezentace
+       url: /dl/slidy/20051201-SUT-PAM.pdf
+     - type: video
+       url: https://youtu.be/X1zcXx9MrJM
