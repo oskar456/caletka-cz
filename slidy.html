@@ -26,7 +26,7 @@ permalink: /slidy/
     {%- else -%}
     <td>{{ item.event }}</td>
     {%- endif %}
-    <td><a class="anchor" id="{{ anchor }}" href="#{{ anchor }}">{{ item.title }}<span class="anchor"> ¶</span></div></td>
+    <td><a class="anchor" id="{{ anchor }}" href="#{{ anchor }}">{{ item.title }}</div></td>
     <td>
       {%- for link in item.links %}
       <a href="{{ link.url }}">{{ link.type }}</a>

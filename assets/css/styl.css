@@ -66,13 +66,6 @@ a.anchor {
   text-decoration: none;
   color: inherit;
 }
-span.anchor {
-  color: #888888;
-  display: none;
-}
-a.anchor:hover span.anchor {
-  display: inherit;
-}
 .footer {
   clear: both;
 }
