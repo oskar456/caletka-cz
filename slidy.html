@@ -29,7 +29,12 @@ permalink: /slidy/
     <td><a class="anchor" id="{{ anchor }}" href="#{{ anchor }}">{{ item.title }}</a></td>
     <td>
       {%- for link in item.links %}
-      <a href="{{ link.href }}">{{ link.link }}</a>
+      <a href="
+{%- assign hrefstart = link.href | slice: 0, 3 -%}
+{%- if hrefstart contains "/dl" -%}
+  https://ondřej.caletka.cz
+{%- endif -%}
+  {{ link.href }}">{{ link.link }}</a>
       {%- endfor %}
     </td>
   </tr>

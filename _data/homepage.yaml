@@ -1,7 +1,7 @@
 - heading: Texty
   links:
       - link: Archiv prezentací
-        href: slidy.html
+        href: slidy/
       - link: Články pro Root.cz
         href: https://www.root.cz/autori/ondrej-caletka
       - link: Weblog @root.cz
