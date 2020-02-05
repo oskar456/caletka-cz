@@ -1,0 +1,54 @@
+- heading: Texty
+  links:
+      - link: Archiv prezentací
+        href: slidy.html
+      - link: Články pro Root.cz
+        href: https://www.root.cz/autori/ondrej-caletka
+      - link: Weblog @root.cz
+        href: https://blog.root.cz/oskar/
+        title: nové zápisky nepřibývají, radši píšu články
+      - link: Osobní weblog
+        href: https://k5.sh.cvut.cz/~oskar/blog/
+        title: zastaralý, určený k archivaci
+
+- heading: Projekty
+  links:
+      - link: Neběží.eu
+        href: https://www.neběží.eu
+        title: Server, který na IPv4 neběží…
+
+      - link: čas.Neběží.eu
+        href: https://čas.neběží.eu/
+        title: Hodiny, které bez IPv6 neběží…
+
+      - link: Netboot.cz
+        title: Bootujte přímo z Internetu
+        href: http://netboot.cz/
+
+      - link: Playlisty ČRo
+        title: Databáze playlistů Českého rozhlasu
+        href: https://k5.sh.cvut.cz/playlist
+
+      - link: PoEpi
+        href: https://oskar456.github.io/poepi/
+        title: Deska pro dálkové napájení Raspberry Pi
+
+      - link: TurrisClock
+        href: https://oskar456.github.io/turrisclock/
+        title: Turrisem řízené hodiny
+
+      - link: …více na GitHubu
+        href: https://github.com/oskar456?tab=repositories
+        title: Další open source projekty
+
+- heading: Sociální sítě
+  links:
+          - link: Twitter
+            href: https://twitter.com/oskar456
+            rel: me
+          - link: Mastodon
+            href: https://mastodon.social/@Oskar456
+            rel: me
+          - link: LinkedIn
+            href: https://www.linkedin.com/in/caletkao
+            rel: me
