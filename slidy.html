@@ -17,7 +17,7 @@ permalink: /slidy/
   </tr>
   {%- for item in site.data.slidy %}
   {%- capture anchor -%}
-    {{ item.date | append: "-" | append: item.title | slugify: "pretty" }}
+    {{ item.date | date: "%Y-%m-%d-" | append: item.title | slugify: "pretty" }}
   {%- endcapture -%}
   <tr>
     <td>{{ item.date | date: '%-d.' }}</td><td>{{ item.date | date: '%-m.' }}</td><td>{{ item.date | date: '%Y' }}</td>
