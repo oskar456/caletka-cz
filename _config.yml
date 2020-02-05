@@ -22,7 +22,7 @@ author: Ondřej Caletka
 title: osobní rozcestník
 repository: oskar456/caletka-cz
 lang: cs
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/caletka-cz" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
