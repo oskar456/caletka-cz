@@ -7,27 +7,21 @@ title: Ondřej Caletka
   <p>osobní rozcestník</p>
 </div>
 <img id="karikatura" src="{{ "/assets/pics/karikatura.png" | relative_url }}" width="373" height="550">
-<h2>Texty</h2>
+{%- for item in site.data.homepage -%}
+<h2>{{ item.heading }}</h2>
 <ul class="links">
-  <li><a href="{% link slidy.html %}">Archiv prezentací</a></li>
-  <li><a href="https://blog.root.cz/oskar/">Weblog @root.cz</a></li>
-  <li><a href="https://k5.sh.cvut.cz/~oskar/blog/">Osobní weblog</a></li>
-  <li><a href="https://www.root.cz/autori/ondrej-caletka">Články pro Root.cz</a></li>
+  {%- for link in item.links %}
+  <li><a href="
+{%- if link.href contains "//" -%}
+   {{ link.href }}
+{%- else -%}
+   {%- link {{ link.href }} -%}
+{%- endif -%}
+"
+{%- if link.title %} title="{{ link.title }}"{% endif -%}
+{%- if link.rel %} rel="{{ link.rel }}"{% endif -%}
+>{{ link.link }}</a></li>
+  {%- endfor %}
 </ul>
-<h2>Projekty</h2>
-<ul class="links">
-  <li><a href="//www.nebezi.cz" title="Server, který na IPv4 neběží…">Neběží.cz</a></li>
-  <li><a href="//cas.nebezi.cz" title="Hodiny, které bez IPv6 neběží…">čas.Neběží.cz</a></li>
-  <li><a href="http://boot.oskarcz.net" title="Bootujte přímo z Internetu">iPXE boot</a></li>
-  <li><a href="https://k5.sh.cvut.cz/playlist" title="Databáze playlistů Českého rozhlasu">Playlisty ČRo</a></li>
-  <li><a href="https://oskar456.github.io/poepi/" title="Deska pro dálkové napájení Raspberry Pi">PoEpi</a></li>
-  <li><a href="https://oskar456.github.io/turrisclock/" title="Turrisem řízené hodiny">TurrisClock</a></li>
-  <li><a href="https://github.com/oskar456?tab=repositories" title="Další open source projekty">…více na GitHubu</a></li>
-</ul>
-<h2>Sociální sítě</h2>
-<ul class="links">
-  <li><a rel="me" href="https://twitter.com/oskar456">Twitter</a></li>
-  <li><a rel="me" href="https://mastodon.social/@Oskar456">Mastodon</a></li>
-  <li><a rel="me" href="https://www.linkedin.com/in/caletkao">LinkedIn</a></li>
-</ul>
+{% endfor -%}
 <div class="footer"></div>
