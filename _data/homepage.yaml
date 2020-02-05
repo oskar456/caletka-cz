@@ -43,12 +43,12 @@
 
 - heading: Sociální sítě
   links:
-          - link: Twitter
-            href: https://twitter.com/oskar456
-            rel: me
-          - link: Mastodon
-            href: https://mastodon.social/@Oskar456
-            rel: me
-          - link: LinkedIn
-            href: https://www.linkedin.com/in/caletkao
-            rel: me
+      - link: Twitter
+        href: https://twitter.com/oskar456
+        rel: me
+      - link: Mastodon
+        href: https://mastodon.social/@Oskar456
+        rel: me
+      - link: LinkedIn
+        href: https://www.linkedin.com/in/caletkao
+        rel: me
