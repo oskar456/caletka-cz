@@ -2,11 +2,17 @@
   event: BSS20
   eventlink: https://www.cesnet.cz/akce/bss20/
   title: Proč se nebát háčků a čárek v doménových jménech
+  links:
+     - link: prezentace
+       href: /dl/slidy/20200211-BSS20-proc-se-nebat-IDN.pdf
 
 - date: 2020-02-11
   event: BSS20
   eventlink: https://www.cesnet.cz/akce/bss20/
   title: Nasazení RPKI v e-infrastruktuře CESNET
+  links:
+     - link: prezentace
+       href: /dl/slidy/20200211-BSS20-RPKI_na_CESNETu.pdf
 
 - date: 2019-11-13
   event: GÉANT
