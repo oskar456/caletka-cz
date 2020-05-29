@@ -1,3 +1,11 @@
+- date: 2020-05-29
+  event: RIPE NCC
+  title: "SSH agent: what is it and how to use it securely"
+  lang: en
+  links:
+     - link: slides
+       href: /dl/slidy/20200529-RIPENCC-SSH-agent.pdf
+
 - date: 2020-02-11
   event: BSS20
   eventlink: https://www.cesnet.cz/akce/bss20/
