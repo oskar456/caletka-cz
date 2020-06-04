@@ -1,4 +1,13 @@
-- date: 2020-05-29
+- date: 2020-06-04
+  event: bez IPv4
+  eventlink: https://www.cesnet.cz/akce/bezipv4/
+  title: "Domácí služby na IPv6-only"
+  lang: cs
+  links:
+     - link: slides
+       href: /dl/slidy/20200604-bezIPv4-Domaci_sluzby_na_IPv6-only.pdf
+
+- date: 2020-06-03
   event: NCC Sevens
   title: "Portable external monitors"
   lang: en
