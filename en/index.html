@@ -1,13 +1,15 @@
 ---
 layout: default
 title: Ondřej Caletka
+permalink: /en/
+lang: en
 ---
 <div class="header">
   <h1>Ondřej Caletka</h1>
-  <p>osobní rozcestník | <a href="{% link en/index.html %}">english version</a></p>
+  <p>personal portal | <a href="{% link index.html %}">česká verze</a></p>
 </div>
 <img id="karikatura" src="{{ "/assets/pics/karikatura.png" | relative_url }}" width="373" height="550">
-{%- for item in site.data.homepage -%}
+{%- for item in site.data.homepage_en -%}
 <h2>{{ item.heading }}</h2>
 <ul class="links">
   {%- for link in item.links %}

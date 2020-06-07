@@ -8,31 +8,5 @@ permalink: /slidy/
   <p>archiv prezentací</p>
   <p><a href="{% link index.html %}">&lt;&lt; zpět na rozcestník</a></p>
 </div>
-<table>
-  <tr>
-    <th colspan="3">Datum</th>
-    <th>Akce</th>
-    <th>Název</th>
-    <th>Ke stažení</th>
-  </tr>
-  {%- for item in site.data.slidy %}
-  {%- capture anchor -%}
-    {{ item.date | date: "%Y-%m-%d-" | append: item.title | slugify: "pretty" }}
-  {%- endcapture -%}
-  <tr>
-    <td>{{ item.date | date: '%-d.' }}</td><td>{{ item.date | date: '%-m.' }}</td><td>{{ item.date | date: '%Y' }}</td>
-    {% if item.eventlink -%}
-    <td><a href="{{ item.eventlink }}">{{ item.event }}</a></td>
-    {%- else -%}
-    <td>{{ item.event }}</td>
-    {%- endif %}
-    <td><a class="anchor" id="{{ anchor }}" href="#{{ anchor }}">{{ item.title }}</a></td>
-    <td>
-      {%- for link in item.links %}
-      <a href="{{ link.href }}">{{ link.link }}</a>
-      {%- endfor %}
-    </td>
-  </tr>
-  {%- endfor %}
-</table>
+{% include slidelist_cs.html content=site.data.slidy %}
 <div class="footer"></div>
