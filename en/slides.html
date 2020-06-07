@@ -1,0 +1,23 @@
+---
+layout: default
+title: "Ondřej Caletka: presentation archive"
+lang: en
+permalink: /slides/
+---
+<div class="header">
+  <h1>Ondřej Caletka</h1>
+  <p>presentation archive</p>
+  <p><a href="{% link en/index.html %}">&lt;&lt; back to index</a></p>
+</div>
+<h2>Talks in English</h2>
+{%- assign enslides = site.data.slidy | where: "lang", "en" %}
+{% include slidelist_en.html content=enslides %}
+<h2>Talks in Czech</h2>
+{%- assign csslides = '' | split: '' %}
+{%- for item in site.data.slidy %}
+{%- if item.lang != 'en' %}
+{%- assign csslides = csslides | push: item %}
+{%- endif %}
+{%- endfor %}
+{% include slidelist_en.html content=csslides %}
+<div class="footer"></div>

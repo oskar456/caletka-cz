@@ -1,0 +1,47 @@
+- heading: Write-ups
+  links:
+      - link: Presentation archive
+        href: en/slides.html
+      - link: Medium articles
+        href: https://medium.com/@Oskar456
+      - link: Root.cz articles (cs)
+        href: https://www.root.cz/autori/ondrej-caletka
+      - link: NL blog (cs)
+        href: https://ondřej.v.nizozemsku.nl/
+
+- heading: Projects
+  links:
+      - link: DoesNotWork.eu
+        href: https://www.doesnotwork.eu
+        title: Server, which does not work over IPv4…
+
+      - link: time.DoesNotWork.eu
+        href: https://time.doesnotwork.eu/
+        title: Clock, which does not work without IPv6…
+
+      - link: Netboot.cz
+        title: iPXE network boot
+        href: http://netboot.cz/
+
+      - link: PoEpi
+        href: https://oskar456.github.io/poepi/
+        title: Remote powering of a Raspberry Pi
+
+      - link: TurrisClock
+        href: https://oskar456.github.io/turrisclock/
+        title: Turris-controlled clock
+
+      - link: …more on GitHub
+        href: https://github.com/oskar456?tab=repositories
+
+- heading: Social networks
+  links:
+      - link: Twitter
+        href: https://twitter.com/oskar456
+        rel: me
+      - link: Mastodon
+        href: https://mastodon.social/@Oskar456
+        rel: me
+      - link: LinkedIn
+        href: https://www.linkedin.com/in/caletkao
+        rel: me
