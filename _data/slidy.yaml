@@ -1,3 +1,11 @@
+- date: 2020-07-30
+  event: RIPE NCC
+  title: "Network lab with Vagrant and Ansible"
+  lang: en
+  links:
+     - link: slides
+       href: /dl/slidy/20200730-RIPENCC-Network_lab_with_Vagrant_and_Ansible.pdf
+
 - date: 2020-06-04
   event: bez IPv4
   eventlink: https://www.cesnet.cz/akce/bezipv4/
