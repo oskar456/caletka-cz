@@ -1,3 +1,23 @@
+- date: 2020-10-03
+  event: LinuxDays
+  eventlink: https://www.linuxdays.cz/2020/
+  title: "kexec: rychlý restart bez restartu"
+  lang: cs
+  links:
+     - link: prezentace
+       href: /dl/slidy/20201003-LinuxDays-kexec.pdf
+
+- date: 2020-09-08
+  event: CSNOG
+  eventlink: https://indico.csnog.eu/event/7/page/45-programme
+  title: "Developing the RIPE Routing Information Service (RIS)"
+  lang: cs
+  links:
+     - link: prezentace
+       href: /dl/slidy/20200908-CSNOG-Developing_the_RIS.pdf
+     - link: video
+       href: https://youtu.be/Vu2qrA9kNR4
+
 - date: 2020-07-30
   event: RIPE NCC
   title: "Network lab with Vagrant and Ansible"
