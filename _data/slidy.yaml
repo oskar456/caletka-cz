@@ -1,3 +1,11 @@
+- date: 2020-10-21
+  event: CESNET LUG
+  title: "Linuxový firewall - nftables a iptables"
+  lang: cs
+  links:
+     - link: prezentace
+       href: /dl/slidy/20201021-LUG-Linuxovy_firewall.pdf
+
 - date: 2020-10-03
   event: LinuxDays
   eventlink: https://www.linuxdays.cz/2020/
