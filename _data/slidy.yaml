@@ -1,3 +1,11 @@
+- date: 2020-11-08
+  event: OpenAlt
+  eventlink: https://www.openalt.cz/2020/
+  title: USB v průběhu věků
+  links:
+     - link: prezentace
+       href: /dl/slidy/20201108-OpenAlt-USB_v_prubehu_veku.pdf
+
 - date: 2020-10-21
   event: CESNET LUG
   title: "Linuxový firewall - nftables a iptables"
