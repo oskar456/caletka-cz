@@ -13,6 +13,8 @@
   links:
      - link: prezentace
        href: /dl/slidy/20201021-LUG-Linuxovy_firewall.pdf
+     - link: video
+       href: https://youtu.be/Q6TgIPMuAmw
 
 - date: 2020-10-03
   event: LinuxDays
