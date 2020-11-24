@@ -1,3 +1,11 @@
+- date: 2020-11-24
+  event: RIPE NCC
+  title: "USB Type-C demystified"
+  lang: en
+  links:
+     - link: slides
+       href: /dl/slidy/20201124-RIPENCC-USB_Type-C_demystified.pdf
+
 - date: 2020-11-08
   event: OpenAlt
   eventlink: https://www.openalt.cz/2020/
