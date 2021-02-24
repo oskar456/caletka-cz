@@ -1,3 +1,12 @@
+- date: 2021-02-24
+  event: RIPE DNS WG
+  eventlink: "https://www.ripe.net/participate/ripe/wg/active-wg/dns/remote-sessions"
+  title: "Automating DNSSEC Trust Maintenance"
+  lang: en
+  links:
+     - link: slides
+       href: /dl/slidy/20210224-DNSWG-CDS_scanning.pdf
+
 - date: 2020-11-24
   event: RIPE NCC
   title: "USB Type-C demystified"
