@@ -1,3 +1,11 @@
+- date: 2021-03-06
+  event: InstallFest
+  eventlink: https://www.installfest.cz/if21/
+  title: Zpracování televizního vysílání na Linuxu
+  links:
+     - link: prezentace
+       href: /dl/slidy/20210306-InstallFest-Televize.pdf
+
 - date: 2021-02-24
   event: RIPE DNS WG
   eventlink: "https://www.ripe.net/participate/ripe/wg/active-wg/dns/remote-sessions"
