@@ -5,6 +5,8 @@
   links:
      - link: prezentace
        href: /dl/slidy/20210306-InstallFest-Televize.pdf
+     - link: video
+       href: https://youtu.be/VOV02yMBPLw
 
 - date: 2021-02-24
   event: RIPE DNS WG
