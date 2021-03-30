@@ -1,3 +1,11 @@
+- date: 2021-03-30
+  event: RIPE NCC
+  title: "What I like about systemd"
+  lang: en
+  links:
+     - link: slides
+       href: /dl/slidy/20210330-NCC-systemd.pdf
+
 - date: 2021-03-06
   event: InstallFest
   eventlink: https://www.installfest.cz/if21/
