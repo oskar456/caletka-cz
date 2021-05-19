@@ -1,3 +1,14 @@
+- date: 2021-05-19
+  event: RIPE 82
+  eventlink: https://ripe82.ripe.net/
+  title: "Deployment of CDS"
+  lang: en
+  links:
+     - link: slides
+       href: /dl/slidy/20210519-RIPE82-Deployment_of_CDS.pdf
+     - link: video
+       href: https://ripe82.ripe.net/archives/video/579/
+
 - date: 2021-03-30
   event: RIPE NCC
   title: "What I like about systemd"
