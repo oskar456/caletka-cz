@@ -1,3 +1,12 @@
+- date: 2021-06-04
+  event: IPv6day
+  eventlink: https://www.cesnet.cz/akce/nejenipv6/
+  title: "Programování aplikací pro IPv6, IPv4.5 i IPv10"
+  lang: cs
+  links:
+     - link: prezentace
+       href: /dl/slidy/20210604-IPv6Day-Programovani_aplikaci_pro_IPv6_IPv45_i_IPv10.pdf
+
 - date: 2021-05-19
   event: RIPE 82
   eventlink: https://ripe82.ripe.net/
